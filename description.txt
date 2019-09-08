@@ -1,0 +1,10 @@
+This is a fairly small mod made by myself. It is largely based off the game Spiral Knights, an MMO I used to play years ago. 
+This mod adds an assortment of weapons - mostly bombs, swords and blasters. 
+It also adds a few new enemies to the earlygame and a couple of melee armour sets.
+The mod gives you enough content to do a whole playthrough solely focused on its weapons.
+
+Beta 0.1.34 - First release.
+As this is the first public release please note it may not be well balanced.
+If you experience any issues or see places for improvement in balance please let me know.
+Not yet tested with other mods, so please let me know!
+Please also test multiplayer.
